@@ -1,2 +1,1 @@
-
-[![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.2.3&color=cb0000&style=for-the-badge)](https://nodejs.org)
+![SharedScreenshot](https://github.com/user-attachments/assets/4c9dc486-3383-4029-b970-cc56ac1635ff)
